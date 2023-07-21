@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: lvolz.dev # the main title
 
-tagline: Developer # it will display as the sub-title
+tagline: 기술 블로그 입니당. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://github.com/lvolzdev/lvolzdev.github.io/assets/63188042/19c5a9e0-f6b7-4d46-bd44-14800cc5b622" # "/commons/avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
