@@ -16,10 +16,10 @@ tags: [Python, Numpy, Pandas]
   * [Scrub for Irrlevant / Incorrect Data](#scrub-for-irrlevant---incorrect-data)
 
 ## 용어
-DataFrame
-Series - 열
-Columns - axis=1
-Index - axis=0, 행 이름
+DataFrame  
+Series - 열  
+Columns - axis=1  
+Index - axis=0, 행 이름  
 
 ## Data Cleansing Process
 ### Importing Data
@@ -35,6 +35,8 @@ Index - axis=0, 행 이름
 - `df명.reset_index()` - 기존 인덱스를 첫 번째 열로 생성, 인덱스 01234.. 형식으로 복원
     - **drop=True** 옵션 - **복원시 인덱스 제거** - **인덱스 재설정**
 
+<br>
+
 ### Scrub for Irrlevant / Incorrect Data
 **날짜 데이터**
 - `pd.to_datetime(Series)` - series를 datetime형식으로 변환
@@ -47,6 +49,8 @@ Index - axis=0, 행 이름
 
 - `pd.date_range()` - 일정 기간의 날자 만들기
 - `pd.Timedelta()` - 시간간격 다루기
+
+<br>
 
 **새로운 열 생성 / 데이터 프레임의 수정**
 - 맨 뒤에 열 추가 - df명[’새로운열이름’] = pd.Series
