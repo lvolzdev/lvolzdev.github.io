@@ -7,13 +7,13 @@ tags: [Python, Numpy, Pandas]
 
 판다스와 넘파이 기초
 
-## 목차
+<!-- ## 목차
 - [용어](#용어)
 - [Data Cleansing Process](#data-cleansing-process)
   * [Importing Data](#importing-data)
   * [데이터 특성 및 오류 점검](#데이터-특성-및-오류-점검)
   * [Scrub for Duplicate](#scrub-for-duplicate)
-  * [Scrub for Irrlevant / Incorrect Data](#scrub-for-irrlevant---incorrect-data)
+  * [Scrub for Irrlevant / Incorrect Data](#scrub-for-irrlevant--incorrect-data) -->
 
 ## 용어
 DataFrame  
