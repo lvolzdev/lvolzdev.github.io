@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: lvolz.dev # the main title
 
-tagline: 기술 블로그 입니당. 🍄 # it will display as the sub-title
+tagline: 🍄 기술 블로그 입니당. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -45,7 +45,7 @@ social:
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/sieun-kim-4866a91b9
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "https://github.com/lvolzdev/lvolzdev.github.io/assets/63188042/19c5a9e0-f6b7-4d46-bd44-14800cc5b622" # "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "https://github.com/lvolzdev/lvolzdev.github.io/assets/63188042/19c5a9e0-f6b7-4d46-bd44-14800cc5b622" # "/commons/avatar.jpg"
