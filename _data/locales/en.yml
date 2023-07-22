@@ -8,7 +8,7 @@ layout:
   tag: Tag
 
 # The tabs of sidebar
-tabs:s
+tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   categories: Categories
