@@ -7,17 +7,18 @@ tags: [Python, Numpy, Pandas]
 
 판다스와 넘파이 기초
 
-<!-- ## 목차
+## 목차
 - [용어](#용어)
 - [Data Cleansing Process](#data-cleansing-process)
   * [Importing Data](#importing-data)
   * [데이터 특성 및 오류 점검](#데이터-특성-및-오류-점검)
   * [Scrub for Duplicate](#scrub-for-duplicate)
-  * [Scrub for Irrlevant / Incorrect Data](#scrub-for-irrlevant--incorrect-data) -->
+  * [Scrub for Irrlevant / Incorrect Data](#scrub-for-irrlevant--incorrect-data)
 
 ## 용어
-DataFrame  
-![dataframe](../../../assets/img/dataframe.png)  
+DataFrame   
+![dataframe](https://github.com/lvolzdev/lvolzdev.github.io/assets/63188042/ea304145-4017-4f8b-ba87-40b9ac50223e)
+
 Series - 열  
 Columns - axis=1  
 Index - axis=0, 행 이름  
