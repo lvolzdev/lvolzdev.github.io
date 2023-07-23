@@ -1,6 +1,6 @@
 ---
 title: "[Data] Numpy/Pandas 기초"
-date: 2023-07-20 21:00:00 +09:00
+date: 2023-07-21 21:00:00 +09:00
 categories: [Bigdata, 데이터처리]
 tags: [Python, Numpy, Pandas]
 ---
