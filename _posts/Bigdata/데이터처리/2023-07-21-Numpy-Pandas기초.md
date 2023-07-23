@@ -17,6 +17,7 @@ tags: [Python, Numpy, Pandas]
 
 ## 용어
 DataFrame  
+![dataframe](../../../assets/img/dataframe.png)  
 Series - 열  
 Columns - axis=1  
 Index - axis=0, 행 이름  
